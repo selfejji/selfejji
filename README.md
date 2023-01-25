@@ -9,7 +9,7 @@
 
 ## **About Me**
 
-![](selfejji/assets/resized-image-Promo.jpeg")
+![-](/assets/resized-image-Promo.jpeg")
 
 I am a passionate developer and musician originally from Maple Grove, Minnesota now located in Atlanta Georgia. I
 am currently a Lead Shift Supervisor RX at CVS Health and a graduate from Georgia State University where I studied
