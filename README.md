@@ -3,9 +3,9 @@
 
 ## Welcome! Below you can click on a section to learn more:
 
-+ [`About Me`](#About Me)
-+ [`My Repositories`](#My Repositories)
-+ [`Contact Information`](#Contact Information)
++ [About Me](#About Me)
++ [My Repositories](#My Repositories)
++ [Contact Information](#Contact Information)
 
 ## **About Me**
 
@@ -43,8 +43,8 @@ Dean's List, Georgia State University | 2018 Fall Semester
 
 ## **Repositories**
 
-+ [`Relational Database Application`](#Relational Database Application)
-+ [`Mobile iOS/Android Application`](#Mobile iOS/Android Application)
++ [Relational Database Application](#Relational Database Application)
++ [Mobile iOS/Android Application](#Mobile iOS/Android Application)
 [comment]: <> (+ [`Swift iOS Application`](#Swift iOS Application)) 
 [comment]: <> (+ [`ASP.NET C# Web Application`](#ASP.NET C# Web Application))
 
