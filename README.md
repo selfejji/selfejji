@@ -8,7 +8,7 @@ Welcome! Below you can click on a section to learn more:
 - [Contact Information](#contact-information)
 
 ## **About Me**
-![alt text](resized-image-Promo.jpeg "Logo Title Text 1")
+![alt text](/assets/resized-image-Promo.jpeg "Logo Title Text 1")
 
 
 I am a passionate developer and musician originally from Maple Grove, Minnesota now located in Atlanta Georgia. I
@@ -50,7 +50,7 @@ Dean's List, Georgia State University | 2018 Fall Semester
 ## **Repositories**
 
 ### [Relational Database Application](../blob/master/LICENSE)
-![alt text](ECX-1909_Hero_PostgreSQL_600x400_2x.jpeg "Logo Title Text 1")
+![alt text](/assets/ECX-1909_Hero_PostgreSQL_600x400_2x.jpeg "Logo Title Text 1")
 
 Designed and developed a complete application to model a fictitious retail store’s daily operations and cash management functions.
 Utilized PostgreSQL and PgAdmin to host and query the normalized relational database.
@@ -61,7 +61,7 @@ Achieved foundational and intermediate knowledge on database systems, design, cr
 <br>
 
 ### [Mobile iOS/Android Application](../blob/master/LICENSE)
-![alt text](flutter.jpg "Logo Title Text 1")
+![alt text](/assets/flutter.jpg "Logo Title Text 1")
 
 Developed an android application that created a political platform for users to vote, chat, and follow legislative bills and officials.
 Utilized Flutter framework with Android Studio and Visual Studio Code (iOS) to develop and test with android emulation.
