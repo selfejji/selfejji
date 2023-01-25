@@ -1,5 +1,5 @@
 # **Sammy Elfejji** 
-## Aspiring Developer
+**Aspiring Developer**
 
 ## Welcome! Below you can click on a section to learn more:
 
