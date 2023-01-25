@@ -60,7 +60,7 @@ Achieved foundational and intermediate knowledge on database systems, design, cr
 
 <br>
 
-### [Mobile iOS/Android Application](https://github.com/selfejji/BillTracker))
+### [Mobile iOS/Android Application](https://github.com/selfejji/BillTracker)
 ![alt text](/assets/flutter.jpg "Logo Title Text 1")
 
 Developed an android application that created a political platform for users to vote, chat, and follow legislative bills and officials.
