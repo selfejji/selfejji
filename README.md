@@ -45,8 +45,6 @@ Dean's List, Georgia State University | 2018 Fall Semester
 
 + [Relational Database Application](#Relational Database Application)
 + [Mobile iOS/Android Application](#Mobile iOS/Android Application)
-[comment]: <> (+ [`Swift iOS Application`](#Swift iOS Application)) 
-[comment]: <> (+ [`ASP.NET C# Web Application`](#ASP.NET C# Web Application))
 
 ### **Relational Database Application**
 
