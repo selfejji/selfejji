@@ -1,8 +1,6 @@
 # **Sammy Elfejji** 
 ## Aspiring Developer
 
-***
-
 ## Welcome! Below you can click on a section to learn more:
 
 + [`About Me`](#About Me)
@@ -10,8 +8,6 @@
 + [`Contact Information`](#Contact Information)
 
 ## **About Me**
-
-***
 
 ![](/assets/resized-image-Promo.jpeg")
 
@@ -47,8 +43,6 @@ Dean's List, Georgia State University | 2018 Fall Semester
 
 ## **Repositories**
 
-***
-
 + [`Relational Database Application`](#Relational Database Application)
 + [`Mobile iOS/Android Application`](#Mobile iOS/Android Application)
 [comment]: <> (+ [`Swift iOS Application`](#Swift iOS Application)) 
@@ -75,8 +69,6 @@ Incorporated an open-source API that generated up to date political official bio
 Achieved foundational understanding of mobile application development and API implementation.
 
 ## Contact Information
-
-***
 
 Email: **selfejji21@gmail.com**
 LinkedIn: **[www.linkedin.com/in/sammyelfejji](https://www.linkedin.com/in/sammyelfejji)**
