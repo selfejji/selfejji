@@ -49,7 +49,7 @@ Dean's List, Georgia State University | 2018 Fall Semester
 
 ## **Repositories**
 
-### [Relational Database Application](../blob/master/LICENSE)
+### [Relational Database Application](https://github.com/selfejji/Fake-Value-Store-Inventory-Control-System)
 ![alt text](/assets/ECX-1909_Hero_PostgreSQL_600x400_2x.jpeg "Logo Title Text 1")
 
 Designed and developed a complete application to model a fictitious retail store’s daily operations and cash management functions.
@@ -60,7 +60,7 @@ Achieved foundational and intermediate knowledge on database systems, design, cr
 
 <br>
 
-### [Mobile iOS/Android Application](../blob/master/LICENSE)
+### [Mobile iOS/Android Application](https://github.com/selfejji/BillTracker))
 ![alt text](/assets/flutter.jpg "Logo Title Text 1")
 
 Developed an android application that created a political platform for users to vote, chat, and follow legislative bills and officials.
