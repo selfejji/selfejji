@@ -9,7 +9,7 @@
 
 ## **About Me**
 
-![-](/assets/resized-image-Promo.jpeg")
+![](/assets/resized-image-Promo.jpeg")
 
 I am a passionate developer and musician originally from Maple Grove, Minnesota now located in Atlanta Georgia. I
 am currently a Lead Shift Supervisor RX at CVS Health and a graduate from Georgia State University where I studied
@@ -50,7 +50,7 @@ Dean's List, Georgia State University | 2018 Fall Semester
 
 ### **Relational Database Application**
 
-![](/assets/ECX-1909_Hero_PostgreSQL_600x400@2x.png")
+![](/assets/ECX-1909_Hero_PostgreSQL_600x400_2x.jpeg")
 
 Designed and developed a complete application to model a fictitious retail store’s daily operations and cash management functions.
 Utilized PostgreSQL and PgAdmin to host and query the normalized relational database.
@@ -60,7 +60,7 @@ Achieved foundational and intermediate knowledge on database systems, design, cr
 
 ### **Mobile iOS/Android Application**
 
-![](/assets/flutter.png")
+![](/assets/flutter.jpg")
 
 Developed an android application that created a political platform for users to vote, chat, and follow legislative bills and officials.
 Utilized Flutter framework with Android Studio and Visual Studio Code (iOS) to develop and test with android emulation.
