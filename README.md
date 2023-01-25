@@ -42,7 +42,7 @@ Major GPA: 3.33 / 4.0
 Software Engineering | System Level Programming | Design and Analysis: Algorithms | Mobile App Development | Database Systems Web Programming | Operating Systems | Computer Organization and Programming | Data Structures
 
 #### Awards
-President's List, Georgia State University | 2019 Spring Semester 
+President's List, Georgia State University | 2019 Spring Semester <br>
 Dean's List, Georgia State University | 2018 Fall Semester
 
 <br>
