@@ -47,7 +47,7 @@ Dean's List, Georgia State University | 2018 Fall Semester
 
 ## **Repositories**
 
-### [Relational Database Application](https://github.com/selfejji/Fake-Value-Store-Inventory-Control-System)
+### [Relational Database Application](https://github.com/selfejji/FVS-Pharmacy-RDBMS)
 ![alt text](/assets/ECX-1909_Hero_PostgreSQL_600x400_2x.jpeg "Logo Title Text 1")
 
 Designed and developed a complete application to model a fictitious retail store’s daily operations and cash management functions.
