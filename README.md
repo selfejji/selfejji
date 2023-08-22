@@ -12,7 +12,7 @@ Welcome! Below you can click on a section to learn more:
 I am a passionate developer and musician originally from Maple Grove, Minnesota now located in Atlanta Georgia. I
 am currently a Lead Shift Supervisor RX at CVS Health and a graduate from Georgia State University where I studied
 Computer Science. I am actively looking for Front End/Back End, Full Stack development, Software Engineering, or
-DevOps positions in Houston, Texas.
+DevOps positions in Atlanta, GA.
 
 <br>
 
