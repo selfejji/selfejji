@@ -1,4 +1,4 @@
-# Sammy Elfejji | **Aspiring Developer**
+# Sammy Elfejji | **Developer**
 
 
 Welcome! Below you can click on a section to learn more:
