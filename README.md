@@ -50,29 +50,29 @@ Dean's List, Georgia State University | 2018 Fall Semester
 ### [Relational Database Application](https://github.com/selfejji/FVS-Pharmacy-RDBMS)
 ![alt text](/assets/ECX-1909_Hero_PostgreSQL_600x400_2x.jpeg "Logo Title Text 1")
 
-• Designed and developed a complete web application to model a retail store’s daily operations and cash management
++ Designed and developed a complete web application to model a retail store’s daily operations and cash management
 functions.
-• Utilized PostgreSQL to host and query a normalized relational database on a local machine with pgAdmin.
-• Implemented a lightweight web framework via Flask to optimize performance and improve front-end development
++ Utilized PostgreSQL to host and query a normalized relational database on a local machine with pgAdmin.
++ Implemented a lightweight web framework via Flask to optimize performance and improve front-end development
 process.
-• Implemented HTML to structure the application’s components for inserting and deleting entities and viewing query
++ Implemented HTML to structure the application’s components for inserting and deleting entities and viewing query
 reports.
-• Achieved experience with full-stack web application development and design in a collaborative environment.
++ Achieved experience with full-stack web application development and design in a collaborative environment.
 
 <br>
 
 ### [Mobile iOS/Android Application](https://github.com/selfejji/BillTracker)
 ![alt text](/assets/flutter.jpg "Logo Title Text 1")
 
-• Designed and developed a complete android mobile application that created a social media political platform for
++ Designed and developed a complete android mobile application that created a social media political platform for
 users to vote, chat, and follow government officials and legislative bills.
-• Developed with the Flutter framework to build and streamline user interface components and widgets, incorporate
++ Developed with the Flutter framework to build and streamline user interface components and widgets, incorporate
 google sign on authentication, and improve database communication.
-• Structured user and application data with Google Firestore collections by tracking user profile data, sign on
++ Structured user and application data with Google Firestore collections by tracking user profile data, sign on
 credentials, platform messages, and legislative information.
-• Implemented a REST API with ProPublica to request https endpoints that returned legislative bill and government
++ Implemented a REST API with ProPublica to request https endpoints that returned legislative bill and government
 representative biographical data as Json reports.
-• Achieved experience with full-stack mobile application development, design, and REST API implementation in a
++ Achieved experience with full-stack mobile application development, design, and REST API implementation in a
 collaborative environment.
 
 <br> 
