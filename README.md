@@ -50,22 +50,30 @@ Dean's List, Georgia State University | 2018 Fall Semester
 ### [Relational Database Application](https://github.com/selfejji/FVS-Pharmacy-RDBMS)
 ![alt text](/assets/ECX-1909_Hero_PostgreSQL_600x400_2x.jpeg "Logo Title Text 1")
 
-Designed and developed a complete application to model a fictitious retail store’s daily operations and cash management functions.
-Utilized PostgreSQL and PgAdmin to host and query the normalized relational database.
-Implemented the Flask framework to create a web application interface primarily in Python and HTML to display query reports.
-Documented the schema by creating an entity relationship diagram (ERD) and data definition language (DDL).
-Achieved foundational and intermediate knowledge on database systems, design, creation, and implementation.
+• Designed and developed a complete web application to model a retail store’s daily operations and cash management
+functions.
+• Utilized PostgreSQL to host and query a normalized relational database on a local machine with pgAdmin.
+• Implemented a lightweight web framework via Flask to optimize performance and improve front-end development
+process.
+• Implemented HTML to structure the application’s components for inserting and deleting entities and viewing query
+reports.
+• Achieved experience with full-stack web application development and design in a collaborative environment.
 
 <br>
 
 ### [Mobile iOS/Android Application](https://github.com/selfejji/BillTracker)
 ![alt text](/assets/flutter.jpg "Logo Title Text 1")
 
-Developed an android application that created a political platform for users to vote, chat, and follow legislative bills and officials.
-Utilized Flutter framework with Android Studio and Visual Studio Code (iOS) to develop and test with android emulation.
-Implemented Google Firebase tools to store user, government, and sign in authentication data with Firestore. 
-Incorporated an open-source API that generated up to date political official biographical information and bills.
-Achieved foundational understanding of mobile application development and API implementation.
+• Designed and developed a complete android mobile application that created a social media political platform for
+users to vote, chat, and follow government officials and legislative bills.
+• Developed with the Flutter framework to build and streamline user interface components and widgets, incorporate
+google sign on authentication, and improve database communication.
+• Structured user and application data with Google Firestore collections by tracking user profile data, sign on
+credentials, platform messages, and legislative information.
+• Implemented a REST API with ProPublica to request https endpoints that returned legislative bill and government
+representative biographical data as Json reports.
+• Achieved experience with full-stack mobile application development, design, and REST API implementation in a
+collaborative environment.
 
 <br> 
 
