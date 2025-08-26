@@ -1,4 +1,4 @@
-# Sammy Elfejji | **Developer**
+# Sammy Elfejji | **IT Professional**
 
 
 Welcome! Below you can click on a section to learn more:
